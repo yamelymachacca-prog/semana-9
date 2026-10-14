@@ -1,4 +1,5 @@
-// ===== Aplicación principal =====
+// Laboratorio 09 - JavaScript Moderno ES6+
+// Desarrollo individual: Refactorización de ES5 a ES6+ con módulos
 
 // Importamos los datos
 import estudiantes, { curso } from "./datos.js";
